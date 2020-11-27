@@ -11,6 +11,14 @@
 
 - ⚡ Fun fact **Version 2.O BY A**
 
+
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7718122&style=0001&nbdigits=5&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>                                    
+                                    
+                                        
+                                          
+                            
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/poornaprakash-s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="poornaprakash-s" height="30" width="40" /></a>
