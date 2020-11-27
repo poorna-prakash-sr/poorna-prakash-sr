@@ -12,7 +12,8 @@
 - ⚡ Fun fact **Version 2.O BY A**
 
 
-<img src="https://hitwebcounter.com/counter/counter.php?page=7718123&style=0027&nbdigits=3&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>                                     
+<a href="https://www.freecounterstat.com" title="free web counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=1txdjrha6rmn4f6sj5yqzdk2tykqsq4s" border="0" title="free web counter" alt="free web counter"></a>
+                                    
                                     
                                         
                                           
