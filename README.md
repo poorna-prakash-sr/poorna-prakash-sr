@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Version 2.O BY A**
 
-<h2><center>rVisited</center></h2>
+<h2 align="center"><center>rVisited</center></h2>
 <img src="https://counter3.stat.ovh/private/freecounterstat.php?c=1txdjrha6rmn4f6sj5yqzdk2tykqsq4s" border="0" title="free web counter" alt="free web counter"></a>
 
 <h3 align="left">Connect with me:</h3>
