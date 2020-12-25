@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poorna Prakash</h1>
 <h3 align="center">Full Stack Developer | Flutter Developer | Designing Own Frameworks |Rising.....</h3>
 
-
+<p align="center">
 
 - 🔭 I’m currently working on **Flutter Apps , Own FrameWork**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **srprakash016@gmail.com**
 
 - ⚡ Fun fact **Version 2.O BY A**
-
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
