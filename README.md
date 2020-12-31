@@ -3,7 +3,7 @@
 
 <p align="left">
 
-- 🔭 I’m currently working on **Flutter Apps , Own FrameWork**
+- 🔭 I’m currently working on **Flutter Apps , Own FrameWork , Website Development**
 
 - 🌱 I’m currently learning **docker , VB.net , scala**
 
@@ -29,7 +29,7 @@
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true
 
 
 <h2>Visited</h2>
