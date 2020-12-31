@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poornaprakash-it19&show_icons=true&locale=en" alt="poornaprakash-it19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poornaprakash-it19&" alt="poornaprakash-it19" /></p>
 
 
 <h2>Visited</h2>
