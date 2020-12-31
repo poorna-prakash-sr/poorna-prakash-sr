@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornaprakash-it19&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="poornaprakash-it19" /></p><br/><br/><br/><br/><br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poornaprakash-it19&show_icons=true&theme=nightowl&locale=en" alt="poornaprakash-it19" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornaprakash-it19&show_icons=true&theme=nightowl&locale=en" alt="poornaprakash-it19" /></p>
 
 
 
