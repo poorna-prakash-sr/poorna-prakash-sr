@@ -26,8 +26,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornaprakash-it19&show_icons=true&locale=en&layout=compact" alt="poornaprakash-it19" /></p>
 
-<h2>Visited</h2>
-<img src="https://counter3.stat.ovh/private/freecounterstat.php?c=1txdjrha6rmn4f6sj5yqzdk2tykqsq4s" border="0" title="free web counter" alt="free web counter"></a>
+
 
 
 
