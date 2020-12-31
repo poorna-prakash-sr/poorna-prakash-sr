@@ -27,7 +27,10 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornaprakash-it19&show_icons=true&locale=en&layout=compact" alt="poornaprakash-it19" /></p>
 
-<br>
+<br><!-- Badge Code - Do Not Change The Code -->
+                    <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank"  title="https://www.duplichecker.com/website-visitor-hit-counter.php" data-name="99cd2175108d157588c04758296d1cfc|5|page|1|#443c94|#ffffff|small|d-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+                    <!-- Badge Code End Here -->
+                    
 
 
 
