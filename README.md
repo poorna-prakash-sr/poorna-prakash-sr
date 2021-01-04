@@ -30,11 +30,12 @@
 <a href="https://discord.gg/https://discord.com/invite/PwVdRHa2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/invite/PwVdRHa2" height="30" width="40" /></a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poornaprakash-it19&show_icons=true&locale=en" alt="poornaprakash-it19" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornaprakash-it19&show_icons=true&locale=en&layout=compact" alt="poornaprakash-it19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poornaprakash-it19&show_icons=true&locale=en" alt="poornaprakash-it19" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poornaprakash-it19&" alt="poornaprakash-it19" /></p>
 
