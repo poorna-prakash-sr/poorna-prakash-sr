@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poornaprakash-it19" alt="poornaprakash-it19" /></a> </p>
+
 
 - 🔭 I’m currently working on [RestApi Forms](http://careers.fibvo.com/)
 
