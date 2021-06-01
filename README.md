@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RestApi Forms](http://careers.fibvo.com/)
 
-- 🌱 I’m currently learning **docker , VB.net , scala**
+- 🌱 I’m currently learning scala**
 
 - 🤝 I’m looking for help with **Any Body :-)**
 
