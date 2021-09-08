@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **srprakash016@gmail.com**
 
-- ⚡ Fun fact **Version 2.O Updated BY A......**
+- ⚡ Fun fact **Updated BY A......16**
                                                      
                                     
 <h3 align="left">Connect with me:</h3>
