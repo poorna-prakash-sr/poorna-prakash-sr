@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://poornaprakash.tech/](https://poornaprakash.tech/)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **HCJPNMF (HTML CSS JAVSCRIPT PHP NODEJS MYSQL FLUTTER)**
 
 - 📫 How to reach me **srprakash016@gmail.com**
 
