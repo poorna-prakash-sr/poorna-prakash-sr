@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Poorna Prakash</h1>
 <h3 align="center">Learning Developer | Flutter Developer</h3>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=poornaprakash-it19)
 - 🔭 I’m currently working on [http://careers.fibvo.com/](Forms)
 
 - 🌱 I’m currently learning **Devops**
