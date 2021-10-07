@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poorna Prakash</h1>
+<img align="center" src="https://raw.githubusercontent.com/poornaprakash-it19/poornaprakash-it19/main/banner.png">
 <h3 align="center">Learning Developer | Flutter Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poornaprakash-it19&label=Profile%20views&color=0e75b6&style=flat" alt="poornaprakash-it19" /> </p>
