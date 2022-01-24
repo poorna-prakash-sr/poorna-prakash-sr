@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poornaprakash-it19&label=Profile%20views&color=0e75b6&style=flat" alt="poornaprakash-it19" /> </p>
 
-- 🔭 I’m currently working on [http://careers.fibvo.com/](Forms)
+- 🔭 I’m currently **Building Online Websites**
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://poornaprakash.tech/](https://poornaprakash.tech/)
+- 👨‍💻 All of my projects are available at [https://poornaprakash.live/](https://poornaprakash.tech/)
 
 - 📝 I regularly write articles on [https://codeblazing.com/](https://codeblazing.com/)
 
