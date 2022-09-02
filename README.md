@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=poorna-prakash-sr&&style=flat-square" align="center" />
 </div> 
 <br>
-### <div align="center"></div>  
+<div align="center"></div>  
   
 
 - 🔭 I’m currently working on Open Source 
@@ -95,12 +95,12 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oou3cybs3ljff3z3x4zngqx3vi&cover_image=true&theme=default" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oou3cybs3ljff3z3x4zngqx3vi&cover_image=true&theme=default" /></div>  
 
 
 
