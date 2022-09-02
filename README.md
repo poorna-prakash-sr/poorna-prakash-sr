@@ -100,7 +100,7 @@
   
 
 <br/>  
-## Recently Played
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oou3cybs3ljff3z3x4zngqx3vi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 
